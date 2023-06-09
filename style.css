@@ -1,0 +1,337 @@
+
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+.row{
+    display:flex;
+     width:100%;
+}
+.col{
+    width:100%;
+    background-color: blue;
+    height:40px;
+}
+
+
+.row1{
+     display: flex;
+     width: 100%;
+}
+.col1{
+         width:50%;                                                                                                          
+         background-color:palevioletred;
+         height: 40px;
+}
+.col2{
+         width:50%;
+         background-color: green;
+         height: 40px;
+    }
+
+
+    .row2{
+          display: flex;
+          width: 100%;
+     }
+     .col3{
+          width:33.33%;
+          background-color:rgb(49, 170, 226);
+          height: 40px;
+     }
+     .col4{
+         width:33.33%;
+         background-color: rgb(0, 2, 128);
+         height: 40px;
+         }
+       .col5{
+            width:33.33%;
+            background-color: blueviolet;
+            height:40px;
+       } 
+
+     .row3{
+        display: flex;
+        width: 100%;
+   }
+        .col6{
+          width:25%;
+          background-color:red;
+          height: 40px;
+   }
+        .col7{
+          width:25%;
+          background-color:green;
+          height: 40px;
+       }
+        .col8{
+          width:25%;
+          background-color: yellowgreen;
+          height:40px;
+     }  
+        .col9{
+            width:25%;
+            background-color: orangered;
+            height:40px;
+        }
+
+     .row4{
+        display: flex;
+        width: 100%;
+   }
+     .col10{
+        width:20%;
+        background-color:rgb(49, 170, 226);
+        height: 40px;
+   }
+   .col11{
+       width:20%;
+       background-color: rgb(0, 2, 128);
+       height: 40px;
+       }
+     .col12{
+      width:20%;
+      background-color: rgb(226, 43, 156);
+      height:40px;
+     }  
+    .col13{
+        width:20%;
+        background-color:maroon;
+        height:40px;
+    }
+    .col14{
+        width:20%;
+        background-color:aqua;
+        height:40px;
+    }
+
+    .row5{
+        display: flex;
+        width: 100%;
+   }
+     .col15{
+        width:16.66%;
+        background-color:rgb(226, 214, 49);
+        height: 40px;
+   }
+   .col16{
+       width:16.66%;
+       background-color: rgb(0, 23, 128);
+       height: 40px;
+       }
+     .col17{
+      width:16.66%;
+      background-color: rgb(43, 226, 134);
+      height:40px;
+     }  
+    .col18{
+        width:16.66%;
+        background-color:rgb(100, 128, 0);
+        height:40px;
+    }
+    .col19{
+        width:16.66%;
+        background-color:rgb(255, 0, 157);
+        height:40px;
+    }
+    .col20{
+        width:16.66%;
+        background-color:rgb(255, 123, 0);
+        height:40px;
+    }
+
+    .row6{
+        display: flex;
+        width: 100%;
+   }
+     .col21{
+        width:14.3%;
+        background-color:rgb(87, 49, 226);
+        height: 40px;
+   }
+   .col22{
+       width:14.3%;
+       background-color: rgb(128, 0, 0);
+       height: 40px;
+       }
+     .col23{
+      width:14.3%;
+      background-color: rgb(43, 226, 52);
+      height:40px;
+     }  
+    .col24{
+        width:14.3%;
+        background-color:rgb(0, 92, 128);
+        height:40px;
+    }
+    .col25{
+        width:14.3%;
+        background-color:rgb(255, 0, 21);
+        height:40px;
+    }
+    .col26{
+        width:14.3%;
+        background-color:rgb(132, 0, 255);
+        height:40px;
+    }
+    .col27{
+        width:14.3%;
+        background-color:rgb(0, 255, 106);
+        height:40px;
+    }
+
+    .row7{
+        display: flex;
+        width: 100%;
+   }
+     .col28{
+        width:12.5%;
+        background-color:rgb(226, 49, 49);
+        height: 40px;
+   }
+   .col29{
+       width:12.5%;
+       background-color: rgb(128, 126, 0);
+       height: 40px;
+       }
+     .col30{
+      width:12.5%;
+      background-color: rgb(226, 80, 43);
+      height:40px;
+     }  
+    .col31{
+        width:12.5%;
+        background-color:rgb(128, 0, 90);
+        height:40px;
+    }
+    .col32{
+        width:12.5%;
+        background-color:rgb(55, 0, 255);
+        height:40px;
+    }
+    .col33{
+        width:12.5%;
+        background-color:rgb(43, 255, 0);
+        height:40px;
+    }
+    .col34{
+        width:12.5%;
+        background-color:rgb(255, 0, 0);
+        height:40px;
+    }
+    .col35{
+       width:12.5%;
+       background-color: blueviolet;
+       height:40px;
+    }
+
+
+    .row8{
+        display: flex;
+        width: 100%;
+   }
+     .col36{
+        width:11.11%;
+        background-color:magenta;
+        height: 40px;
+   }
+   .col37{
+       width:11.11%;
+       background-color:purple;
+       height: 40px;
+       }
+     .col38{
+      width:11.11%;
+      background-color:maroon;
+      height:40px;
+     }  
+    .col39{
+        width:11.11%;
+        background-color:yellowgreen;
+        height:40px;
+    }
+    .col40{
+        width:11.11%;
+        background-color:aqua;
+        height:40px;
+    }
+    .col41{
+        width:11.11%;
+        background-color:midnightblue;
+        height:40px;
+    }
+    .col42{
+        width:11.11%;
+        background-color:gold;
+        height:40px;
+    }
+    .col43{
+       width:11.11%;
+       background-color:peru;
+       height:40px;
+    }
+    .col44{
+        width:11.11%;
+        background-color:crimson;
+        height:40px;
+    }
+
+    .row9{
+        display: flex;
+        width: 100%;
+   }
+     .col45{
+        width:10%;
+        background-color:rgb(49, 226, 87);
+        height: 40px;
+   }
+   .col46{
+       width:10%;
+       background-color: rgb(128, 0, 70);
+       height: 40px;
+       }
+     .col47{
+      width:10%;
+      background-color: rgb(226, 43, 43);
+      height:40px;
+     }  
+    .col48{
+        width:10%;
+        background-color:skyblue;
+        height:40px;
+    }
+    .col49{
+        width:10%;
+        background-color:rgb(145, 255, 0);
+        height:40px;
+    }
+    .col50{
+        width:10%;
+        background-color:rgb(68, 0, 255);
+        height:40px;
+    }
+    .col51{
+        width:10%;
+        background-color:rgb(255, 0, 13);
+        height:40px;
+    }
+    .col52{
+       width:10%;
+       background-color: rgb(125, 226, 43);
+       height:40px;
+    }
+    .col53{
+        width:10%;
+        background-color:rgb(38, 0, 255);
+        height:40px;
+    }
+    .col54{
+        width:10%;
+        background-color:lawngreen;
+        height:40px;
+    }
+
+
+    
